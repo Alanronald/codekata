@@ -3,5 +3,7 @@ if a>0:
     print "positive"
 elif a==0:
     print "Zero"
-else:
+elif a<0:
     print "negative"
+else:
+    print "Invalid Input"
