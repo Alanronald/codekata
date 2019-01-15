@@ -7,4 +7,4 @@ for i in range(a+1,b):
             if i%j==0:
                 break
         else:
-            print i
+            print i,
