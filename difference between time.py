@@ -1,0 +1,7 @@
+h1,m1=raw_input().split()
+h2,m2=raw_input().split()
+h1=int(h1)
+h2=int(h2)
+m1=int(m1)
+m2=int(m2)
+print abs(h1-h2),abs(m1-m2)
