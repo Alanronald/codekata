@@ -3,6 +3,7 @@ l=raw_input().split()
 l=[int(i) for i in l]
 if len(l)==n:
     l.sort()
-    print l
+    for i in l:
+        print i,
 else:
     print"invalid"
