@@ -1,5 +1,5 @@
-a=int(raw_input())
-val=1
-for i in range(1,a+1):
-    val=i*val
-print val
+n=int(raw_input())
+j=1
+for i in range(1,n+1):
+    j=i*j
+print j
