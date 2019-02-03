@@ -1,2 +1,2 @@
-a=raw_input().split()
-print len(a)
+inp=raw_input().split()
+print len(inp)
