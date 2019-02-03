@@ -1,2 +1,2 @@
 inp=raw_input().split()
-print ' '.join(inp)[::-1]
+print inp[1]+" "+inp[0]
