@@ -4,4 +4,4 @@ y=int(a[1])
 x = x ^ y; 
 y = x ^ y;
 x = x ^ y;
-print x," ",y
+print x,"",y
