@@ -1,2 +1,2 @@
-a=int(raw_input())
-print a+1
+numb=int(raw_input())
+print numb+1
