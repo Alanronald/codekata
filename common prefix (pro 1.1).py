@@ -1,7 +1,7 @@
-n=int(input())
+n=int(raw_input())
 a=[]
 for k in range(0,n):  
-    d=input()
+    d=raw_input()
     a.append(d)
 list=[]
 for k in zip(*a):
