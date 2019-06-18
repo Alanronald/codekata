@@ -1,6 +1,6 @@
 num=int(raw_input())
 a=[]
-for k in range(0,n):  
+for k in range(0,num):  
     b=raw_input()
     a.append(b)
 list=[]
