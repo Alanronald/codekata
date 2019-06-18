@@ -1,8 +1,8 @@
-n=int(raw_input())
+num=int(raw_input())
 a=[]
 for k in range(0,n):  
-    d=raw_input()
-    a.append(d)
+    b=raw_input()
+    a.append(b)
 list=[]
 for k in zip(*a):
     if (k.count(k[0])==len(k)): 
